@@ -198,7 +198,7 @@ export default function LoveyBirthdaySite({ recipient = "Nidhi" }) {
       {/* header controls */}
       <header className="flex justify-between items-center p-4 max-w-5xl mx-auto">
         <h1 className="text-2xl font-bold tracking-wide">
-          A Sky Full of Wishes
+          Nada ka birthday
         </h1>
         <div className="flex items-center gap-3">
           <button
